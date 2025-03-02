@@ -1,0 +1,5 @@
+opencv-python==4.11.0.86\
+matplotlib==3.10.1\
+easyocr==1.7.2\  
+scikit-image==0.25.2\
+numpy==2.2.3\
