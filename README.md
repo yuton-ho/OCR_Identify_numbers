@@ -1,11 +1,12 @@
 使用OCR辨識數字
 利用cv2讀取所需檔案，透過
 
-plt.figure(figsize=(6,6))  # 設定顯示大小
-plt.imshow(image_rgb)  #圖片檔案的變數
-plt.axis("off")  # 隱藏座標軸
-plt.title("Original Image")  #圖片標題
-plt.show()
+plt.figure(figsize=(6,6))  # 設定顯示大小\
+plt.imshow(image_rgb)  #圖片檔案的變數\
+plt.axis("off")  # 隱藏座標軸\
+plt.title("Original Image")  #圖片標題\
+plt.show()\
+
 檢查檔案(對圖片的任意加工都可以用此了解效果) 
 使用matplotlib.pyplot是為了方便知道要對圖片切個的座標，如下圖所示:
 ![image](https://github.com/user-attachments/assets/bf62cc51-c3ca-4330-bc89-1dd83be2fd8f)
